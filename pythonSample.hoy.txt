@@ -1,0 +1,4 @@
+print("_________________________")
+print("Python has entered the building.")
+print("Let the party start!")
+print("_________________________")
